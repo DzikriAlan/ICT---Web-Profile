@@ -12,7 +12,7 @@
   },
   "name": "web-profile-ict",
   "version": "1.0.0",
-  "main": "tailwind.config.js",
+  "main": "index.html",
   "dependencies": {
     "acorn": "^7.4.1",
     "acorn-node": "^1.8.2",
